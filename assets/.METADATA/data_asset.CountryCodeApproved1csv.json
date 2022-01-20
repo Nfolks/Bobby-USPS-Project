@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "Country Code_Approved_1.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2022-01-20T03:58:29Z",
+    "created": 1642651109631,
+    "asset_id": "data_asset.CountryCodeApproved1csv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "Country Code_Approved_1.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/Country Code_Approved_1.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2022-01-20T03:58:30Z",
+      "id": "928f1483-a592-4ceb-b76d-99761bc0c14b",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
